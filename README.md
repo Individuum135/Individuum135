@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Individuum135
-- 👀 I’m interested in build of TauCeti station.
-- 🌱 I’m currently learning DreamMaker.
+- 👋 Hi, I’m Ckif
+
+- .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
